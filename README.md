@@ -1,8 +1,4 @@
 # spring_paypal
-
-**Note**
-> khi thanh toán thì phải dùng account personal
-
 ## API Payment Success
 ```json
 {
@@ -117,3 +113,6 @@
   ]
 }
 ```
+
+**Note**
+> khi thanh toán thì phải dùng account personal
